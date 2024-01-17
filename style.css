@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    background-color: grey;
+}
+
+#div-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 50vh;
+}
+
+button {
+    cursor: pointer;
+    font-size: 200%;
+    font-family: 'Trebuchet MS';
+    border-radius: 20px;
+    border: solid white;
+}
+
+#blueBtn {
+    color: blue;
+}
+
+#pinkBtn {
+    color: hotpink;
+}
+
+#greenBtn {
+    color: green;
+}
